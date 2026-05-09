@@ -1,5 +1,7 @@
 # 💫 About Me:
-# 💫 About Me:<br>Hi 👋, I'm Divyasri  <br>💻 MERN Stack Developer with 3 years of experience  <br>🚀 Currently working at Novatales Media  <br><br>- 🔭 Working on Ecommerce & Admin Panel Projects  <br>- 🌱 Skilled in React.js, JavaScript, Node.js & MongoDB  <br>- 👩‍💻 Experienced in Frontend Development & API Integration  <br>- ⚡ Passionate about building responsive and user-friendly web applications  <br>- 🎯 Love creating clean UI/UX and scalable applications
+<br>Hi 👋, I'm Divyasri, a MERN Stack Developer with 3 years of experience building modern and scalable web applications.  
+Currently working at Novatales Media, specializing in React.js, JavaScript, Node.js, and MongoDB.  
+Passionate about creating responsive UI, ecommerce platforms, and clean user experiences while continuously learning and improving my development skills. <br>💻 MERN Stack Developer with 3 years of experience  <br>🚀 Currently working at Novatales Media<br>- 🔭 Working on Ecommerce & Admin Panel Projects  <br>- 🌱 Skilled in React.js, JavaScript, Node.js & MongoDB  <br>- 👩‍💻 Experienced in Frontend Development & API Integration  <br>- ⚡ Passionate about building responsive and user-friendly web applications  <br>- 🎯 Love creating clean UI/UX and scalable applications
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divya-sri-kandavalli-61b1742b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyasrikandavalli12@gmail.com) 
 # 💻 Tech Stack:
